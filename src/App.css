@@ -10,9 +10,20 @@
   box-shadow: 0 12px 24px 0 rgba(0,0,0,0.15);
 }
 
+input{
+  margin-top: 10px;
+  margin-bottom: 5px;
+  height: 20px;
+  width: 270px;
+  border-radius: 5px;
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+  padding-left: 5px;
+}
+
 .navbar{
   height: 56px;
-  padding: 0 10px;
   background: #6e48aa;
   border-radius: 10px 10px 0px 0px;
   
