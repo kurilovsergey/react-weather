@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Иллюстрация к проекту](https://github.com/kurilovsergey/react-weather/blob/master/src/icon/screen.JPG)
+
 
 ### `npm start`
 
